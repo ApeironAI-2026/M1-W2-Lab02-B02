@@ -8,10 +8,10 @@
 | **Module** | M1: AI/ML Fundamentals |
 | **Week** | Week 2 |
 | **Lab** | Lab02 — The Second Branch: The Bank Wants Numbers |
-| **Duration** | **≈ 4 hours 15 minutes** of lab work (**plus ~30 minutes of one-time setup, not counted**) |
+| **Duration** | **≈ 1 hour** of lab work (**plus ~30 minutes of one-time setup, not counted**) |
 | **Difficulty** | ⭐⭐ Beginner, level 2 — you've got Week 1 behind you |
 
-> 🛋️ **Split this across two or three sittings.** A natural break is after **Cluster E**, when you can load a table, look at it, filter it, sort it and group it — everything before the charts. That is already enough pandas to be useful at work.
+> 🛋️ **Aim for one sitting of about an hour**, with the setup done beforehand. If you do need to pause, the natural break is after **Cluster E**, when you can load a table, look at it, filter it, sort it and group it — everything before the charts. That is already enough pandas to be useful at work.
 
 ### What you learned in class (and will now make your own)
 

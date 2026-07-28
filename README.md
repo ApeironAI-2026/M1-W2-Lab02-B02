@@ -8,7 +8,7 @@
 | **Week** | Week 2 |
 | **Lab** | Lab02 — The Second Branch: The Bank Wants Numbers |
 | **Topic** | The Python data toolbox · pandas · filtering, grouping, missing values · charts with seaborn and matplotlib · a t-test |
-| **Duration** | **≈ 4 hours** of lab work, **plus about 30 minutes of setup** |
+| **Duration** | **≈ 1 hour** of lab work, **plus about 30 minutes of one-time setup** |
 | **Difficulty** | ⭐⭐ Beginner, level 2 |
 
 There is an empty unit two streets over that would make a beautiful sit-down café, and you cannot fund it out of the till. On Monday you take a loan application to the bank — and the loan officer wants **evidence**, not enthusiasm. You have some: **244 real bills** from the trial table-service season. This lab turns them into a report with charts in it.
@@ -155,13 +155,13 @@ Five ✅ ticks and you are done. Any ❌ and the script tells you the exact comm
 
 Both ship with the repo. **Nothing in this lab needs the internet once the install is done** — you can do the whole thing on a train.
 
-> 🛋️ **Split this lab across two or three sittings.** A natural break is after Cluster F, with the data work done and the charts still ahead.
+> 🛋️ **Aim for one sitting of about an hour**, with the setup done beforehand. If you do need to pause, the natural break is after Cluster F, with the data work done and the charts still ahead.
 
 ---
 
 ## 4. 💾 Saving your work back to GitHub
 
-From inside `Lab02`, at the end of each sitting:
+From inside `Lab02`, when you finish, or any time you pause:
 
 ```text
 git add .

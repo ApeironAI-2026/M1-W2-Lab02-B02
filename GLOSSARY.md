@@ -2,7 +2,7 @@
 
 **The Cozy Bean · M1-W2-Lab02 · Apeiron AI Training Academy**
 
-*Week 2 Lab01's words (module, class, object, attribute, method…) are in [its glossary](../M1-W2-Lab01/GLOSSARY.md) and still apply — a DataFrame is an object, and `pd` is a module.*
+*Week 2 Lab01's words (module, class, object, attribute, method…) are in [its glossary](../Lab01/GLOSSARY.md) and still apply — a DataFrame is an object, and `pd` is a module.*
 
 ---
 

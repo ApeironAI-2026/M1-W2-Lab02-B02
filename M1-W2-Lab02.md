@@ -1848,7 +1848,7 @@ Your own report will not be identical to `scripts/12`, and it should not be. Tha
 - **[CHEATSHEET.md](CHEATSHEET.md)** — the pandas one-pager: load, look, select, filter, group, sort, clean, chart, save. This is the one you will actually keep.
 - **[GLOSSARY.md](GLOSSARY.md)** — every new word this week in one plain sentence: DataFrame, Series, aggregation, p-value and the rest.
 
-*(Week 2 Lab01's [cheat sheet](../M1-W2-Lab01/CHEATSHEET.md) still applies — a DataFrame is an object, `pd` is a module, and `df.shape` vs `df.head()` is yesterday's attribute-versus-method rule.)*
+*(Week 2 Lab01's [cheat sheet](../Lab01/CHEATSHEET.md) still applies — a DataFrame is an object, `pd` is a module, and `df.shape` vs `df.head()` is yesterday's attribute-versus-method rule.)*
 
 ---
 
